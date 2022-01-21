@@ -4,7 +4,6 @@ import android.util.Log;
 
 import androidx.lifecycle.MutableLiveData;
 
-import com.rbc.yelp.services.MyApplication;
 import com.rbc.yelp.services.YelpApi;
 import com.rbc.yelp.services.YelpRetrofit;
 import com.rbc.yelp.services.models.BusinessDetails;
